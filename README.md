@@ -17,6 +17,8 @@ $ python3 run.py
 ```
 
 ## Output
+
+```
 └── chapters/
     ├── Chapter 1 - Introduction.docx
     ├── Chapter 2 - Getting Started.docx
